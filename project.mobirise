@@ -1,0 +1,102 @@
+{
+  "settings": {
+    "name": "Site-04-23_1445",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#222222"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.12.3",
+    "siteFonts": [],
+    "imageResize": true,
+    "uniqCompNum": 7,
+    "versionPublish": "4.12.3"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/35528-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#41a85f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222222",
+            "overlayOpacity": 0.5
+          },
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp;Hudson Harris &nbsp; &nbsp; &nbsp; (Freshman)",
+          "text": "I was born in Charelston, SC. July 11, 2001 was the day I was born. I lived three years in South Carolina and then my dad was called to evangelism. My family and I travelled for three years and then stopped in Parkersburg, WV. After a year and a half there my dad became the pastor at a church in Greely Hill, Ca. After almost three years there we moved back and my dad was a associate pastor at Simpson Creek baptist Church in Bridgeport, WV. Lived there for six years and then moved down to South Florida and then my brother and I moved to Pesacola to attend PCC. Then my dad got a job at BJU and that is where I currently attend. Things I like are videogames, Star Wars and hanging with friends. I am a History major at BJU.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            },
+            "H1": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": false,
+            "facebook": true,
+            "google": true,
+            "twitter": false
+          },
+          "text": "Facebook:Hudson Harris<br>Gmail:hudsonharristwin@gmail.com",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-5",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "16px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
